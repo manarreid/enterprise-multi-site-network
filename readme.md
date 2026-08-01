@@ -53,6 +53,5 @@ This project demonstrates the design and deployment of a secure, segmented multi
 ---
 
 ##  Repository Structure
-* `/topology.pkt` - Cisco Packet Tracer source file.
-* `/configs/` - Exported CLI running configurations for Routers and Switches.
-* `/screenshots/` - Topology diagrams and CLI verification outputs.
+* `/final.pkt` - Cisco Packet Tracer source file.
+* `/topology/` - Topology diagrams and CLI verification outputs.
